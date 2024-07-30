@@ -19,13 +19,11 @@ To install the project, please follow these steps:
 1. Clone the repository:
    
    
-    git clone https://github.com/Yeabkalu/RAG-WIth-Langchain.git
+    `git clone https://github.com/Yeabkalu/RAG-WIth-Langchain.git`
 
 2. Install the required python packages:
-   
     
-    
-    pip install -r requirements.txt
+    `pip install -r requirements.txt`
 
 3. Set up environmental variables:
 
@@ -38,13 +36,9 @@ To install the project, please follow these steps:
 
     Run the following command to load the data:
 
-    
-    
-    python -m RAG_WIth_Langchain.load_data --add path/to/pdfs
+    `python -m RAG_WIth_Langchain.load_data --add path/to/pdfs`
 
 5. Ask a question:
 
     Run the following command to ask a question:
-    python -m RAG_WIth_Langchain.ask_data "What is the answer to question 1?"
-<<<<<<<<<<<<<<  ✨ Codeium Command ⭐ >>>>>>>>>>>>>>>>
-<<<<<<<  51e82210-f6ad-4393-904a-d57051342cc1  >>>>>>>
+    `python -m RAG_WIth_Langchain.ask_data "What is the answer to question 1?"`
