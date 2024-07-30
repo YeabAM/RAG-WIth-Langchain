@@ -2,3 +2,4 @@ pypdf
 langchain
 chromadb
 boto3
+pytest
