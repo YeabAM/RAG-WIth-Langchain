@@ -41,4 +41,5 @@ To install the project, please follow these steps:
 5. Ask a question:
 
     Run the following command to ask a question:
+    
     `python -m RAG_WIth_Langchain.ask_data "What is the answer to question 1?"`
